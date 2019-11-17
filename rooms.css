@@ -1,0 +1,54 @@
+body{
+	margin:0px;
+}
+
+.title{
+	background-color: #F3A020;
+	background-repeat:no-repeat;
+	height:50%;
+	background-size:100%;
+	margin:0px;
+	}
+.heading, .body, .para{
+	color:white;
+	text-align:center;
+}
+.heading{
+	padding-top:100px;
+	font-size:50px;
+	letter-spacing:2px;
+}
+.body{
+	padding:20px;
+	font-size:50px;
+	font-family:Times New Roman;
+	font-variant: small-caps;
+}
+.para{
+	padding:0 250;
+	font-size: 30px;
+	font-family: Times New Roman;
+}
+.room2{
+	background-color:#eeeeee;
+}
+.r2{
+	border:10px solid #eeeeee;
+}
+.r3{
+	border:10px solid white;
+}
+.showroom{	margin-right: 300px;
+	letter-spacing:2;
+	font-size:20px;
+	border:2px solid #bf8040;
+	padding:10px;
+	color:#ffffff;
+	float:right;
+	background-color:#bf8040;
+	
+}
+a{
+	text-decoration:none;
+	color:#ffffff;
+}
